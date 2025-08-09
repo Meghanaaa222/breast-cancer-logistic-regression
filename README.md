@@ -1,4 +1,3 @@
-# breast-cancer-logistic-regression
 # Breast Cancer Detection using Logistic Regression
 
 # Project Overview
